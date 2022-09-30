@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Song>
+@{
+    ViewData["Title"] = "AddReviews";
+}
+
+<h1>Yorumlar</h1>
+
+<section class="yorumlar">
+    @foreach (var item in Model)
+    {
+        <h3>@item.SongName</h3>
+        <h3><a class="btn btn-sec" asp-action="Details" asp-controller="Home" asp-route-id="@item.Id"> deneme</a></h3>}
+
+
+</section>

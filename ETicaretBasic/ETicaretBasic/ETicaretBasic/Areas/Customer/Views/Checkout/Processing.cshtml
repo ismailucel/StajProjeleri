@@ -1,0 +1,12 @@
+﻿@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<ETicaretBasic.lang> lang
+@using Microsoft.Extensions.Options
+@inject IOptions<ETicaretBasic.Data.StripeSettings> Stripe
+
+<div class="text-center">
+    <form asp-area="Customer" asp-action="Processing" asp-controller="Checkout" method="post">
+
+        <label class="text-info">@lang["OdemeBasarili"]</label>
+
+    </form>
+</div>

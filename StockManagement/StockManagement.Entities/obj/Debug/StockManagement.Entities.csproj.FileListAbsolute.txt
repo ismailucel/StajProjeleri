@@ -1,0 +1,210 @@
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.dll.config
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Azure.Core.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Azure.Identity.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Buffers.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Memory.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Permissions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Json.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.ValueTuple.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Azure.Core.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Azure.Identity.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Buffers.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Memory.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Permissions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Json.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\System.ValueTuple.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.CopyComplete
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.dll.config
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.pdb
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Core.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Identity.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Buffers.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Memory.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.AccessControl.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Permissions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Json.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.ValueTuple.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Core.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Identity.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Buffers.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Memory.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.AccessControl.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Permissions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Json.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.ValueTuple.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.CopyComplete
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.pdb
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.dll.config
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\StockManagement.Entities.pdb
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Core.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Identity.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Buffers.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Memory.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.AccessControl.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Permissions.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Json.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.ValueTuple.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Core.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Azure.Identity.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Buffers.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Memory.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.AccessControl.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Permissions.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Text.Json.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\System.ValueTuple.xml
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.AssemblyReference.cache
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.csproj.CopyComplete
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.dll
+C:\Users\İSMAİL\Desktop\staj dosyaları\StockManagement (3)\StockManagement\StockManagement.Entities\obj\Debug\StockManagement.Entities.pdb

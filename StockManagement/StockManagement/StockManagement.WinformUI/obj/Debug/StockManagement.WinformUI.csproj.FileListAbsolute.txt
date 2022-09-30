@@ -1,0 +1,262 @@
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.AssemblyReference.cache
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.Properties.Resources.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.GenerateResource.cache
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.CoreCompileInputs.cache
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.WinformUI.exe.config
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.WinformUI.exe
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.WinformUI.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Business.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.DataAccess.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Entities.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Memory.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Buffers.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Business.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.DataAccess.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.DataAccess.dll.config
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Entities.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Memory.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Buffers.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.CopyComplete
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.exe
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.pdb
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Core.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Identity.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Permissions.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Json.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.ValueTuple.dll
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Business.dll.config
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Entities.dll.config
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Core.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Identity.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Permissions.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Json.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\bin\Debug\System.ValueTuple.xml
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.LoginForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.MainForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.UserControl1.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.UserForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.UserModuleForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CategoryForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CategoryModuleForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.ProductForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.ProductModuleForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CustomerForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CustomerModuleForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.OrderForm.resources
+C:\Users\ismail.ucel\source\repos\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.OrderModuleForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.WinformUI.exe.config
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.WinformUI.exe
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.WinformUI.pdb
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Core.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Identity.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Business.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.DataAccess.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Entities.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Buffers.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Memory.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.AccessControl.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Permissions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Json.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.ValueTuple.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Business.pdb
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Business.dll.config
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.DataAccess.pdb
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.DataAccess.dll.config
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Entities.pdb
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\StockManagement.Entities.dll.config
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Core.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Azure.Identity.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Buffers.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Memory.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.AccessControl.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Permissions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Text.Json.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\System.ValueTuple.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.AssemblyReference.cache
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CategoryForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CategoryModuleForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CustomerForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.CustomerModuleForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.LoginForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.MainForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.OrderForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.OrderModuleForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.ProductForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.ProductModuleForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.Properties.Resources.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.UserControl1.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.UserForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.UserModuleForm.resources
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.GenerateResource.cache
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.csproj.CopyComplete
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.exe
+C:\Users\İSMAİL\Desktop\StockManagement (3)\StockManagement\StockManagement.WinformUI\obj\Debug\StockManagement.WinformUI.pdb
